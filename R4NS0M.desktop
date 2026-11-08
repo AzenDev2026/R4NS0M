@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=R4NS0M
+Comment=Fake DOORS ransomware simulator (100% safe)
+Exec=python3 /home/nvazen/Desktop/R4NS0M/ransom_gui.py
+Path=/home/nvazen/Desktop/R4NS0M
+Icon=/home/nvazen/Desktop/R4NS0M/stop.png
+Terminal=false
+Categories=Game;
